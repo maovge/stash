@@ -15,7 +15,7 @@
 
 使用说明
 ---
-1.导入配置：选择“从URL下载”：https://raw.githubusercontent.com/jnlaoshu/MySelf/master/Stash/Config.yaml
+1.导入配置：选择“从URL下载”：https://github.com/maovge/stash/tree/main/Stash/Config.yaml
 
 2.替换订阅：从“编辑”进入，根据配置里的提示替换上自己的订阅链接即可，一定要注意不要粘贴多余的空格之类的
 
